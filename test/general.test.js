@@ -1,4 +1,4 @@
-import OpenGraphIO from '../src';
+import OpenGraphIO from '../dist';
 
 describe('OpenGraph.io Client Tests', () => {
   let testAppId;
